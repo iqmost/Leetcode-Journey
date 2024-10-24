@@ -4,4 +4,4 @@
 
 ### 陣列操作題目
 
-- [] 0189 [輪轉陣列 | Medium](https://leetcode.com/problems/rotate-array/description/)
+- [ ] 0189 [輪轉陣列 | Medium](https://leetcode.com/problems/rotate-array/description/)
