@@ -5,10 +5,8 @@ class Solution:
         for i in range(len(nums)):
             if current_sum*2 + nums[i] == total_sum:
                 return i
-            else:
-                current_sum += nums[i]
-                i += 1
+            current_sum += nums[i]
         return -1
 
-# Runtime 94.87%
-# Memory 99.39%
+# Runtime 97.83%
+# Memory 97.41%
