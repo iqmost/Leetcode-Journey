@@ -14,10 +14,10 @@
 
 - [x] 0498 [對角線遍歷 | Medium](https://leetcode.com/problems/diagonal-traverse)
 - [X] 0048 [旋轉圖片 | Medium](https://leetcode.com/problems/rotate-image)
-- [] 0073 [矩陣填零 | Medium](https://leetcode.com/problems/set-matrix-zeroes)
-- [] 0054 [螺旋矩陣 | Medium](https://leetcode.com/problems/spiral-matrix)
-- [] 0059 [螺旋矩陣 II | Medium](https://leetcode.com/problems/spiral-matrix-ii)
-- [] 0289 [生命遊戲 | Medium](https://leetcode.com/problems/game-of-life)
+- [ ] 0073 [矩陣填零 | Medium](https://leetcode.com/problems/set-matrix-zeroes)
+- [ ] 0054 [螺旋矩陣 | Medium](https://leetcode.com/problems/spiral-matrix)
+- [ ] 0059 [螺旋矩陣 II | Medium](https://leetcode.com/problems/spiral-matrix-ii)
+- [ ] 0289 [生命遊戲 | Medium](https://leetcode.com/problems/game-of-life)
 
 ### 排序算法題目
 
